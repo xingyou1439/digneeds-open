@@ -1,0 +1,29 @@
+{
+  "query": "portable blender",
+  "posts": [
+    {
+      "id": "example-001",
+      "title": "Portable blender leaking after a few weeks",
+      "body": "Mine started leaking and is hard to clean. Looking for a replacement; my budget is $50.",
+      "url": "https://www.reddit.com/r/example/comments/example001/portable-blender/",
+      "subreddit": "example",
+      "comments": 12
+    },
+    {
+      "id": "example-002",
+      "title": "Portable blender just $22.99",
+      "body": "On sale today. Free shipping.",
+      "url": "https://www.reddit.com/r/deals/comments/example002/portable-blender/",
+      "subreddit": "deals",
+      "comments": 0
+    },
+    {
+      "id": "example-003",
+      "title": "Which portable blender should I get?",
+      "body": "Looking for one for work. Which brand has held up well?",
+      "url": "https://www.reddit.com/r/example/comments/example003/portable-blender/",
+      "subreddit": "example",
+      "comments": 8
+    }
+  ]
+}
